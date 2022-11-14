@@ -1,4 +1,4 @@
-INSERT INTO BUILDING(id, name) VALUES(-10, 'EF');
+INSERT INTO BUILDING(id, name) VALUES(-10, 'EspaceFauriel');
 
 INSERT INTO ROOM(id, name, floor, current_temperature, target_temperature, building_id) VALUES(-10, 'Room1', 1, 22.3, 20.0, -10);
 INSERT INTO ROOM(id, name, floor, building_id) VALUES(-9, 'Room2', 1, -10);
